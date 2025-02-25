@@ -106,7 +106,8 @@ Our SDK offers the following scan modes, available out-of-the box in our ready-t
 - Scan & Count
 - Barcode Vision
 
-(UI Screenshots are going here (Batch Scanning, Multi Scanning, Find & Pick))
+| ![Image 1](/barcode-sdk-accordion2.png) | ![Image 2](/barcode-sdk-accordion4.png) | ![Image 1](/barcode-sdk-accordion5.png) |
+| :-- | :-- | :-- |
 
 ### Supported barcodes
 The Scanbot Barcode Scanner SDK supports all common 1D- or 2D barcodes and multiple postal symbiologies. 
