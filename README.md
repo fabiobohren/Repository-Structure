@@ -99,12 +99,16 @@ yarn run clean
 
 ### Out-of-the-box scanning modes
 Our SDK offers the following scan modes, available out-of-the box in our ready-to-use UI:
-- Single scanning 
-- Batch Scanning
-- Multi Scanning 
-- Find & Pick 
-- Scan & Count
-- Barcode Vision
+
+**Single Scanning:**
+The Barcode Scanner SDK's default scanning mode is optimized for detecting single barcodes and is easily configurable to your needs. Additionally, a confirmation sheet can be added to the camera barcode scanner, which will display the encoded barcode data after the scan.
+
+**Batch & Multi Scanning:**
+The barcode scanner can also be configured to scan multiple barcodes in succession without closing the scanning screen, capture more than one barcode from the camera's view, or count the scanned items.
+
+**Find & Pick:**
+Given one or more barcodes, the Barcode Scanner SDK will visually highlight and scan the correct items for your users, simplifying the process of finding the right barcode values in your camera feed.
+
 
 | ![Image 1](/barcode-sdk-accordion2.png) | ![Image 2](/barcode-sdk-accordion4.png) | ![Image 1](/barcode-sdk-accordion5.png) |
 | :-- | :-- | :-- |
