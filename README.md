@@ -110,7 +110,7 @@ The barcode scanner can also be configured to scan multiple barcodes in successi
 Given one or more barcodes, the Barcode Scanner SDK will visually highlight and scan the correct items for your users, simplifying the process of finding the right barcode values in your camera feed.
 
 
-| ![Image 1](/barcode-sdk-accordion2.png) | ![Image 2](/barcode-sdk-accordion4.png) | ![Image 1](/barcode-sdk-accordion5.png) |
+| ![Image 1](/t1.png) | ![Image 2](/t2.png) | ![Image 1](/t3.png) |
 | :-- | :-- | :-- |
 
 ### Supported barcodes
